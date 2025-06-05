@@ -1,0 +1,8 @@
+-First paragraph
+I am going to write a Upwork bid and first 2-3 sentences is very important. Write it to be stand out from the crowd and catch client's attention. Use the humour and be native in English. Here is an example. "Hey there — this isn’t my first rodeo with Alexa, and I don’t need coffee to speak fluent Node.js either. If Alexa had feelings, she’d be thrilled I’m the one replying to this job.
+" Based on that give me first paragraph with 2-3 sentences.
+
+-Bid body
+The following is upwork job post. Write a eye-catching, humanable and outstanding bid. The first 2 or 3 sentences are shown to the client so make it to stand out from the crowd by using appealing ones, humours or specific tech solutions, etc, The proposal body should consists of these parts, my experience, my approach to the project, essentials needed to start the project. Make my experience section to be concise(2-3 sentences)
+
+-Update above bid proposal by just adding windows icons to look better
